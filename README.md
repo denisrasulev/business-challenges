@@ -49,6 +49,18 @@ Rising costs such as your cost of capital, labor, materials, parts, overhead and
 Sales problems such as an inability to recruit sales people who have many
 connections amongst your target customers.
 
+- Only 28.1% of closed deals are predicted accurately90 days out.
+- Reps spend 99.5% on leads with prospects that will never convert.
+- Reps only spend only 36.6% of their time on revenue generating activity.
+- 87% of companies said data integrity and clean-up is a significant issue.
+- Only 27.9%of sales leaders felt they had a dynamic sales process within their organization.
+- Sales reps believe they contact prospects but they only contact them 4 times.
+- Just 47% of companies report access to relevant content for sales reps.
+- Only 41.2%of sales leaders agreed that their comp plans were aligned with business objectives.
+- 79% of all marketing leads are never converted to sales.
+- 82% of B2B decision-makers think sales reps are unprepared.
+Based on Research from InsideSales.com, CSO Insights, Pardot, The Alexander Group, Biznology, and SpringCM
+
 ## Customer Relationships
 Customers who are unhappy with your products or services such that they are
 likely to cancel services and/or generate negative word of mouth.
