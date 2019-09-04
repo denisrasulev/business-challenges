@@ -1,6 +1,6 @@
-# Business Problems
+# Business Challenges
 
-Business problems are current or long term challenges and issues faced by a business. These may prevent a business from executing strategy and achieving
+Business challenges are current or long term challenges and issues faced by a business. These may prevent a business from executing strategy and achieving
 goals. In some cases, business problems also threaten the long term survival of a firm. The following are illustrative examples of business problems.
 
 ## Financial
